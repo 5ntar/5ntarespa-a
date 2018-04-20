@@ -58,14 +58,23 @@
 										<h2 class="centros">Centros de ayuda</h2>
 										<div class="entry">
 											<a href="http://www.inmujer.gob.es/servRecursos/centrosAtencion/home.htm">
-				      							<img src="mapa.png" alt="icono facebook"> 
+				      							<img src="mapPeninsula.jpg" alt="icono facebook"> 
 				      							</a>
 										</div>					
 								
 									</li>
 									<li class="inicio">
-										<h2>Linea de ayuda telefónica 144 </h2>
-										<p class="descripcion144"> Ponemos al alcance de las mujeres víctimas de este delito la línea telefónica gratuita 144 que funciona en todo el país, las 24 horas, los 365 días del año.</p>
+										<h2>Linea de ayuda telefónica 900 191 010 </h2>
+											<p class="descripcion144"> El Instituto de la Mujer y para la Igualdad de Oportunidades ofrece dos formas de obtener información y asesoramiento gratuitos
+
+	Aquí obtendrás información de carácter general sobre:
+
+	Derechos de las mujeres.
+	Recursos disponibles.
+	Programas y servicios del Instituto de la Mujer.
+	Denuncias de publicidad sexista.
+	Orientación y asesoramiento sobre discriminación por razón de sexo.
+	Mediante carta o correo electrónico puedes denunciar comportamientos o actitudes que te puedan parecer discriminatorios por razón de sexo..</p>
 										<h2>Línea 144 – Atención a mujeres App</h2>
 										<a  class="linkapp" href="https://www.argentina.gob.ar/aplicaciones/linea-144">Link de descarga</a>
 										<p class="144app"> Hacé la encuesta para detectar signos de violencia en una relación</p>
